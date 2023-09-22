@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Escárcega</h1>
-<h3 align="center">A passionate C embedded developer from Mexico</h3>
+<h3 align="center">A passionate C embedded developer, data science and mechanical design from Mexico</h3>
 
 - 🔭 I’m currently working on **PhD in greenhouse automation projects as an embedded systems engineering**
 
